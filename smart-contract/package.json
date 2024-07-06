@@ -1,0 +1,10 @@
+{
+  "name": "estate-escrow-smart-contract",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/bun": "latest",
+    "chai": "^5.1.1",
+    "ethers": "^6.13.1",
+    "hardhat": "^2.22.6"
+  }
+}
